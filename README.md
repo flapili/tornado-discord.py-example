@@ -5,6 +5,7 @@ A really short example to show how combine a web server and a discord bot.
 this example have 2 demonstrations endpoints:
 
 `http://localhost:8080/test/a/b/c` -> {"param1": "a", "param2": "b", "param3": "c"}
+
 `http://localhost:8080/hello`-> hello, my name is tornado example
 
 
